@@ -1,0 +1,15 @@
+.brand-logo span{
+    font-size: 25px;
+    font-weight: 300;
+}
+.nav-wrapper{
+    background-color: #446083;
+}
+.nav-wrapper .brand-logo img{
+    height: 40px;
+    margin: 10px;
+    float: left;
+}
+.nav-wrapper .active{
+    background-color: rgba(0,0,0,.1);
+}

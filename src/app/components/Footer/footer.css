@@ -1,0 +1,7 @@
+  .page-footer{
+    position: relative;
+    top: 34px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: rgba(68, 96, 131, .4)
+  }
