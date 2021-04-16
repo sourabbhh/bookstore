@@ -1,0 +1,203 @@
+{
+  "books": [
+    {
+      "name": "Think And Grow Rich",
+      "pages": "453",
+      "price": "400",
+      "author": "Napoleon Hill",
+      "category": "others",
+      "id": 1
+    },
+    {
+      "name": "Environment for Dummies",
+      "pages": "453",
+      "price": "500",
+      "author": "Wiley",
+      "category": "children",
+      "id": 3
+    },
+    {
+      "name": "React Quickly",
+      "pages": "300",
+      "price": "373",
+      "author": "Azat Mardan",
+      "category": "technical",
+      "id": 4
+    },
+    {
+      "name": "Mastering Node.js",
+      "pages": "400",
+      "price": "637",
+      "author": " Sandro Pasquali",
+      "category": "technical",
+      "id": 5
+    },
+    {
+      "name": "Maths 12th",
+      "pages": "400",
+      "price": "230",
+      "author": "NCERT",
+      "category": "academics",
+      "id": 6
+    }
+  ],
+  "customers": [
+    {
+      "name": "Sourabh Kushwaha",
+      "address": "333 aaa bbb cccc, Noida",
+      "phone": "9999988888",
+      "cart": [
+        {
+          "name": "Think And Grow Rich",
+          "pages": "453",
+          "price": "400",
+          "author": "Napoleon Hill",
+          "category": "others",
+          "id": 1,
+          "quantity": 1
+        },
+        {
+          "name": "Environment for Dummies",
+          "pages": "453",
+          "price": "500",
+          "author": "Wiley",
+          "category": "children",
+          "id": 3,
+          "quantity": 2
+        },
+        {
+          "name": "Mastering Node.js",
+          "pages": "400",
+          "price": "637",
+          "author": " Sandro Pasquali",
+          "category": "technical",
+          "id": 5,
+          "quantity": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Vigyey patel",
+      "address": "222  bbb fff ddd, Noida",
+      "phone": "9999966666",
+      "cart": [
+        {
+          "name": "Think And Grow Rich",
+          "pages": "453",
+          "price": "400",
+          "author": "Napoleon Hill",
+          "category": "others",
+          "id": 1,
+          "quantity": 1
+        },
+        {
+          "name": "React Quickly",
+          "pages": "300",
+          "price": "373",
+          "author": "Azat Mardan",
+          "category": "technical",
+          "id": 4,
+          "quantity": 3
+        },
+        {
+          "name": "Maths 12th",
+          "pages": "400",
+          "price": "230",
+          "author": "NCERT",
+          "category": "academics",
+          "id": 6,
+          "quantity": 2
+        },
+        {
+          "name": "Mastering Node.js",
+          "pages": "400",
+          "price": "637",
+          "author": " Sandro Pasquali",
+          "category": "technical",
+          "id": 5,
+          "quantity": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Atul kumar ",
+      "address": "111 sss hhh bbbb, Noida",
+      "phone": "9999998888",
+      "cart": [
+        {
+          "name": "Environment for Dummies",
+          "pages": "453",
+          "price": "500",
+          "author": "Wiley",
+          "category": "children",
+          "id": 3,
+          "quantity": 3
+        },
+        {
+          "name": "Think And Grow Rich",
+          "pages": "453",
+          "price": "400",
+          "author": "Napoleon Hill",
+          "category": "others",
+          "id": 1,
+          "quantity": 1
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Shubham Dhakkad",
+      "address": "444 aaaa qqqqq ccc, Noida",
+      "phone": "8888777766",
+      "cart": [
+        {
+          "name": "Think And Grow Rich",
+          "pages": "453",
+          "price": "400",
+          "author": "Napoleon Hill",
+          "category": "others",
+          "id": 1,
+          "quantity": 1
+        },
+        {
+          "name": "React Quickly",
+          "pages": "300",
+          "price": "373",
+          "author": "Azat Mardan",
+          "category": "technical",
+          "id": 4,
+          "quantity": 1
+        },
+        {
+          "name": "Maths 12th",
+          "pages": "400",
+          "price": "230",
+          "author": "NCERT",
+          "category": "academics",
+          "id": 6,
+          "quantity": 3
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "aa",
+      "address": "ss",
+      "phone": "77",
+      "cart": [
+        {
+          "name": "Environment for Dummies",
+          "pages": "453",
+          "price": "500",
+          "author": "Wiley",
+          "category": "children",
+          "id": 3,
+          "quantity": 1
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
