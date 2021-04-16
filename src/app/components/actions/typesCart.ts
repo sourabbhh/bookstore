@@ -1,0 +1,10 @@
+export const ADD_BOOK_CART='ADD_BOOK_CART';
+export const ADD_CUSTOMER='ADD_CUSTOMER';
+export const INCRE_QUANTITY='INCRE_QUANTITY';
+export const DECRE_QUANTITY='DECRE_QUANTITY';
+export const DELETE_BOOK_CART= 'DELETE_BOOK_CART';
+
+export const INIT_CUSTS= 'INIT_CUSTS';
+export const HANDLE_VALUE_CART= 'HANDLE_VALUE_CART';
+
+export const INIT_CUST= 'INIT_CUST';
