@@ -1,0 +1,25 @@
+.book-list h3{
+    font-weight: 100;
+    margin: 40px;
+}
+
+.AddCartEmpty{
+    margin: 5px;
+}
+
+
+.books-row{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: left;
+}
+
+
+.capitalized{
+    text-transform: capitalize;
+}
+
+a{
+    cursor: pointer;
+}
