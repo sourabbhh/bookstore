@@ -10,7 +10,8 @@ A complete Ecommerce website for buying and selling books. A fully functional Fr
 
 ## Deployed link
 * [BookStore](https://bookstore-3a751.web.app/)
-![BookStore Screenshot](screeshot.png "BookStore Screenshot")
+
+![BookStore Screenshot](screenshot.png "BookStore Screenshot")
 
 ## Running locally
 In the project directory, you can run:
