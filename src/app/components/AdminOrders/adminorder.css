@@ -1,0 +1,11 @@
+.admin-container, .admin-container table, .admin-container > button{
+    margin-top:20px;
+}
+
+.admin-container h3{
+    font-weight: 300;
+}
+
+td{
+    text-transform: capitalize;
+}
